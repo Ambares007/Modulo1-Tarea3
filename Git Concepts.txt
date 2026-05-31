@@ -1,0 +1,13 @@
+CONCEPTS OF GITS AND THE USE OF THIS.
+
+Repositorio: Un repositorio (o repo) es un almacenamiento digital centralizado donde se guardan, 
+organizan y mantienen seguros diversos tipos de información, Es un lugar en el que se guarda nuestro trabajo
+realizado. (Como una biblioteca)
+
+Commit: Es como tomar una foto de los cambios que ser vayan realizando en el
+proyectos, es una forma de llevar trazabilidad del trabajo, a su vez, este comando nos permite llevar 
+un registro preciso de lo que se hace, cómo se hace y sobre todo, ¿Quién lo hizo?
+
+
+Push: Es el comando utilizado para subir los commits realizados desla la terminal, visual estudio o Cursos (que es nuestro codespace)
+y lo envía a la nube, o en otra forma, al internet (En nuestro repositorio).
