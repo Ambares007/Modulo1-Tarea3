@@ -1,0 +1,6 @@
+Mantener un registro de cambios mediante herramientas como Git es esencial en el desarrollo de software porque transforma 
+el caos del proceso creativo en una estructura organizada, segura y auditable. Al documentar cada modificación, el sistema 
+permite revertir errores críticos de forma inmediata, brindando una red de seguridad que protege el avance acumulado. 
+Asimismo, esta gestión resulta indispensable para el trabajo en equipo, ya que permite que múltiples personas colaboren 
+simultáneamente en distintas funcionalidades sin sobrescribir el trabajo ajeno, facilitando la integración fluida de cambios y asegurando 
+que cada decisión técnica quede registrada y sea trazable a lo largo de toda la vida útil del proyecto.
